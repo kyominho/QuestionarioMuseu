@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698245122 source:c:\users\paula\onedrive\documentos\c++\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
